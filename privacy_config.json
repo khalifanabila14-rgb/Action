@@ -1,7 +1,7 @@
 {
   "okay_button": {
     "close_popup": true,
-    "open_url": true,
+    "open_url": false,
     "url": "https://playonx.com/privacy"
   }
 }
